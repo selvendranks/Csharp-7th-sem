@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\Expno3\Expno3\bin\Debug\net5.0\Expno3.exe
+D:\Csharp-7th-sem\Expno3\Expno3\bin\Debug\net5.0\Expno3.deps.json
+D:\Csharp-7th-sem\Expno3\Expno3\bin\Debug\net5.0\Expno3.runtimeconfig.json
+D:\Csharp-7th-sem\Expno3\Expno3\bin\Debug\net5.0\Expno3.runtimeconfig.dev.json
+D:\Csharp-7th-sem\Expno3\Expno3\bin\Debug\net5.0\Expno3.dll
+D:\Csharp-7th-sem\Expno3\Expno3\bin\Debug\net5.0\Expno3.pdb
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\Expno3.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\Expno3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\Expno3.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\Expno3.AssemblyInfo.cs
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\Expno3.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\Expno3.dll
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\refint\Expno3.dll
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\Expno3.pdb
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\Expno3.genruntimeconfig.cache
+D:\Csharp-7th-sem\Expno3\Expno3\obj\Debug\net5.0\ref\Expno3.dll
