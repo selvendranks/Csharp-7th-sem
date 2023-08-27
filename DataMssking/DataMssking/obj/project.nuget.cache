@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEyr1JV8I/TZDGwKV3cZRpd2mYK+FiRrOrMxaZjGSgAQWZiY2SB7f8D2oT57TIW0lYiZnXL0cYoUUjhAfMS/DA==",
+  "success": true,
+  "projectFilePath": "D:\\Csharp-7th-sem\\DataMssking\\DataMssking\\DataMssking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

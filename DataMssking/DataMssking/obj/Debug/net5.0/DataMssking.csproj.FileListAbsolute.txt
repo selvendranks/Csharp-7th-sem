@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\DataMssking\DataMssking\bin\Debug\net5.0\DataMssking.exe
+D:\Csharp-7th-sem\DataMssking\DataMssking\bin\Debug\net5.0\DataMssking.deps.json
+D:\Csharp-7th-sem\DataMssking\DataMssking\bin\Debug\net5.0\DataMssking.runtimeconfig.json
+D:\Csharp-7th-sem\DataMssking\DataMssking\bin\Debug\net5.0\DataMssking.runtimeconfig.dev.json
+D:\Csharp-7th-sem\DataMssking\DataMssking\bin\Debug\net5.0\DataMssking.dll
+D:\Csharp-7th-sem\DataMssking\DataMssking\bin\Debug\net5.0\DataMssking.pdb
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\DataMssking.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\DataMssking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\DataMssking.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\DataMssking.AssemblyInfo.cs
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\DataMssking.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\DataMssking.dll
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\refint\DataMssking.dll
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\DataMssking.pdb
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\DataMssking.genruntimeconfig.cache
+D:\Csharp-7th-sem\DataMssking\DataMssking\obj\Debug\net5.0\ref\DataMssking.dll
