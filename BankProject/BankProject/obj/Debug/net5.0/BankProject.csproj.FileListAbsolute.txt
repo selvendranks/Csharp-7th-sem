@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\BankProject\BankProject\bin\Debug\net5.0\BankProject.exe
+D:\Csharp-7th-sem\BankProject\BankProject\bin\Debug\net5.0\BankProject.deps.json
+D:\Csharp-7th-sem\BankProject\BankProject\bin\Debug\net5.0\BankProject.runtimeconfig.json
+D:\Csharp-7th-sem\BankProject\BankProject\bin\Debug\net5.0\BankProject.runtimeconfig.dev.json
+D:\Csharp-7th-sem\BankProject\BankProject\bin\Debug\net5.0\BankProject.dll
+D:\Csharp-7th-sem\BankProject\BankProject\bin\Debug\net5.0\BankProject.pdb
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\BankProject.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\BankProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\BankProject.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\BankProject.AssemblyInfo.cs
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\BankProject.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\BankProject.dll
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\refint\BankProject.dll
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\BankProject.pdb
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\BankProject.genruntimeconfig.cache
+D:\Csharp-7th-sem\BankProject\BankProject\obj\Debug\net5.0\ref\BankProject.dll
