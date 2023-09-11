@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\bin\Debug\net5.0\indexOutofRange.exe
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\bin\Debug\net5.0\indexOutofRange.deps.json
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\bin\Debug\net5.0\indexOutofRange.runtimeconfig.json
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\bin\Debug\net5.0\indexOutofRange.runtimeconfig.dev.json
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\bin\Debug\net5.0\indexOutofRange.dll
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\bin\Debug\net5.0\indexOutofRange.pdb
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\indexOutofRange.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\indexOutofRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\indexOutofRange.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\indexOutofRange.AssemblyInfo.cs
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\indexOutofRange.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\indexOutofRange.dll
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\refint\indexOutofRange.dll
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\indexOutofRange.pdb
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\indexOutofRange.genruntimeconfig.cache
+D:\Csharp-7th-sem\indexOutofRange\indexOutofRange\obj\Debug\net5.0\ref\indexOutofRange.dll
