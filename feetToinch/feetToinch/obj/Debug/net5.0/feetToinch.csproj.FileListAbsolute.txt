@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\feetToinch\feetToinch\bin\Debug\net5.0\feetToinch.exe
+D:\Csharp-7th-sem\feetToinch\feetToinch\bin\Debug\net5.0\feetToinch.deps.json
+D:\Csharp-7th-sem\feetToinch\feetToinch\bin\Debug\net5.0\feetToinch.runtimeconfig.json
+D:\Csharp-7th-sem\feetToinch\feetToinch\bin\Debug\net5.0\feetToinch.runtimeconfig.dev.json
+D:\Csharp-7th-sem\feetToinch\feetToinch\bin\Debug\net5.0\feetToinch.dll
+D:\Csharp-7th-sem\feetToinch\feetToinch\bin\Debug\net5.0\feetToinch.pdb
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\feetToinch.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\feetToinch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\feetToinch.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\feetToinch.AssemblyInfo.cs
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\feetToinch.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\feetToinch.dll
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\refint\feetToinch.dll
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\feetToinch.pdb
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\feetToinch.genruntimeconfig.cache
+D:\Csharp-7th-sem\feetToinch\feetToinch\obj\Debug\net5.0\ref\feetToinch.dll

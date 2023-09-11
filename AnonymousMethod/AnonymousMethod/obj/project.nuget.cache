@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FgsiZ2rwzzSHe7/6Z4gx0yd64PhwqNoOqAVSF46GUjop/IC+1AwsJJSBWCMZhKHgw6yuEpDagwI7gP9yqd7BOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Csharp-7th-sem\\AnonymousMethod\\AnonymousMethod\\AnonymousMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

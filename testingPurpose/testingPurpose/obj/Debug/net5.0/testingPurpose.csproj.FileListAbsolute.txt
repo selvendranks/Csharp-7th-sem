@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\testingPurpose.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\testingPurpose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\testingPurpose.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\testingPurpose.AssemblyInfo.cs
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\testingPurpose.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\bin\Debug\net5.0\testingPurpose.exe
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\bin\Debug\net5.0\testingPurpose.deps.json
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\bin\Debug\net5.0\testingPurpose.runtimeconfig.json
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\bin\Debug\net5.0\testingPurpose.runtimeconfig.dev.json
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\bin\Debug\net5.0\testingPurpose.dll
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\bin\Debug\net5.0\testingPurpose.pdb
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\testingPurpose.dll
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\refint\testingPurpose.dll
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\testingPurpose.pdb
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\testingPurpose.genruntimeconfig.cache
+D:\Csharp-7th-sem\testingPurpose\testingPurpose\obj\Debug\net5.0\ref\testingPurpose.dll
