@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\Destructor\Destructor\bin\Debug\net5.0\Destructor.exe
+D:\Csharp-7th-sem\Destructor\Destructor\bin\Debug\net5.0\Destructor.deps.json
+D:\Csharp-7th-sem\Destructor\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.json
+D:\Csharp-7th-sem\Destructor\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.dev.json
+D:\Csharp-7th-sem\Destructor\Destructor\bin\Debug\net5.0\Destructor.dll
+D:\Csharp-7th-sem\Destructor\Destructor\bin\Debug\net5.0\Destructor.pdb
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\Destructor.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfo.cs
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\Destructor.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\Destructor.dll
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\refint\Destructor.dll
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\Destructor.pdb
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\Destructor.genruntimeconfig.cache
+D:\Csharp-7th-sem\Destructor\Destructor\obj\Debug\net5.0\ref\Destructor.dll
