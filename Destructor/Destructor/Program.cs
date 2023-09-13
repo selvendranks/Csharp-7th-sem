@@ -1,11 +1,10 @@
 ﻿using System;
-using System.Threading;
 
 namespace Destructor
 {   
     class Sample
     {
-        public Sample() {
+        Sample() {
             Console.WriteLine("Create object");
                 }
 
@@ -18,9 +17,8 @@ namespace Destructor
     {
         static void Main(string[] args)
         {
-            Sample s = new Sample();
-            Console.WriteLine("Other operations");
-            
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("other operations");
         }
     }
 }
