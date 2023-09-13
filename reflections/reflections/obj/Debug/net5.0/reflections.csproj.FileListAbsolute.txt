@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\reflections\reflections\bin\Debug\net5.0\reflections.exe
+D:\Csharp-7th-sem\reflections\reflections\bin\Debug\net5.0\reflections.deps.json
+D:\Csharp-7th-sem\reflections\reflections\bin\Debug\net5.0\reflections.runtimeconfig.json
+D:\Csharp-7th-sem\reflections\reflections\bin\Debug\net5.0\reflections.runtimeconfig.dev.json
+D:\Csharp-7th-sem\reflections\reflections\bin\Debug\net5.0\reflections.dll
+D:\Csharp-7th-sem\reflections\reflections\bin\Debug\net5.0\reflections.pdb
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\reflections.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\reflections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\reflections.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\reflections.AssemblyInfo.cs
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\reflections.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\reflections.dll
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\refint\reflections.dll
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\reflections.pdb
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\reflections.genruntimeconfig.cache
+D:\Csharp-7th-sem\reflections\reflections\obj\Debug\net5.0\ref\reflections.dll

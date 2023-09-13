@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXcOQoDK4weu+vbNKz5dK6xyRg5neM6T0xiyG7Qr0Qrqfv3I+0MY9G3/Hdc9Rbx8oHWO64GIF1ZmSeDPBQt6FA==",
+  "success": true,
+  "projectFilePath": "D:\\Csharp-7th-sem\\reflections\\reflections\\reflections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
