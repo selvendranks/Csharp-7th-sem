@@ -1,0 +1,12 @@
+D:\Csharp-7th-sem\Destructors\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\Destructors\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\Destructors\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Csharp-7th-sem\Destructors\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Csharp-7th-sem\Destructors\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Csharp-7th-sem\Destructors\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Csharp-7th-sem\Disposable\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Csharp-7th-sem\Disposable\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Csharp-7th-sem\Disposable\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\Disposable\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\Disposable\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Csharp-7th-sem\Disposable\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
