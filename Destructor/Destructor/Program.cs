@@ -2,9 +2,9 @@
 
 namespace Destructor
 {   
-    class Sample
+    public class Sample
     {
-        Sample() {
+        public Sample() {
             Console.WriteLine("Create object");
                 }
 
@@ -17,7 +17,7 @@ namespace Destructor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Sample s = new Sample();
             Console.WriteLine("other operations");
         }
     }

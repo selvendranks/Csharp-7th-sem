@@ -22,6 +22,10 @@ namespace Expno6
             {
                 Console.WriteLine("Invalid input. Please enter a valid number.");
             }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
          
         }
     }

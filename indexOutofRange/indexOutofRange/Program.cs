@@ -14,7 +14,7 @@ namespace indexOutofRange
             }
             catch(Exception ex) 
             {
-                Console.WriteLine($"{ex.Message}\n");
+                Console.WriteLine($"{ex}\n");
             }
         }
     }
