@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\bin\Debug\net5.0\ThreadSleep.exe
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\bin\Debug\net5.0\ThreadSleep.deps.json
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\bin\Debug\net5.0\ThreadSleep.runtimeconfig.json
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\bin\Debug\net5.0\ThreadSleep.runtimeconfig.dev.json
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\bin\Debug\net5.0\ThreadSleep.dll
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\bin\Debug\net5.0\ThreadSleep.pdb
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\ThreadSleep.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\ThreadSleep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\ThreadSleep.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\ThreadSleep.AssemblyInfo.cs
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\ThreadSleep.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\ThreadSleep.dll
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\refint\ThreadSleep.dll
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\ThreadSleep.pdb
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\ThreadSleep.genruntimeconfig.cache
+D:\Csharp-7th-sem\ThreadSleep\ThreadSleep\obj\Debug\net5.0\ref\ThreadSleep.dll
