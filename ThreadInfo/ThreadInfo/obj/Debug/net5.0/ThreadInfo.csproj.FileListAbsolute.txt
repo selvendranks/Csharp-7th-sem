@@ -1,0 +1,16 @@
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\bin\Debug\net5.0\ThreadInfo.exe
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\bin\Debug\net5.0\ThreadInfo.deps.json
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\bin\Debug\net5.0\ThreadInfo.runtimeconfig.json
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\bin\Debug\net5.0\ThreadInfo.runtimeconfig.dev.json
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\bin\Debug\net5.0\ThreadInfo.dll
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\bin\Debug\net5.0\ThreadInfo.pdb
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\ThreadInfo.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\ThreadInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\ThreadInfo.AssemblyInfoInputs.cache
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\ThreadInfo.AssemblyInfo.cs
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\ThreadInfo.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\ThreadInfo.dll
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\refint\ThreadInfo.dll
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\ThreadInfo.pdb
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\ThreadInfo.genruntimeconfig.cache
+D:\Csharp-7th-sem\ThreadInfo\ThreadInfo\obj\Debug\net5.0\ref\ThreadInfo.dll

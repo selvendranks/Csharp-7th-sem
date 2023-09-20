@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Er+v9COBQh5wtyaYUbd1zIhjQFBG13KghwEk72I3rQzPafHXb58PnF8DuyezB4GAx0pkJj5JPCDN67koVuD1YA==",
+  "success": true,
+  "projectFilePath": "D:\\Csharp-7th-sem\\ThreadInfo\\ThreadInfo\\ThreadInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
