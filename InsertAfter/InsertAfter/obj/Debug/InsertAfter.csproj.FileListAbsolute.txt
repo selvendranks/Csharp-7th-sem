@@ -1,0 +1,8 @@
+D:\Csharp-7th-sem\InsertAfter\InsertAfter\bin\Debug\InsertAfter.exe.config
+D:\Csharp-7th-sem\InsertAfter\InsertAfter\bin\Debug\InsertAfter.exe
+D:\Csharp-7th-sem\InsertAfter\InsertAfter\bin\Debug\InsertAfter.pdb
+D:\Csharp-7th-sem\InsertAfter\InsertAfter\obj\Debug\InsertAfter.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\InsertAfter\InsertAfter\obj\Debug\InsertAfter.csproj.SuggestedBindingRedirects.cache
+D:\Csharp-7th-sem\InsertAfter\InsertAfter\obj\Debug\InsertAfter.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\InsertAfter\InsertAfter\obj\Debug\InsertAfter.exe
+D:\Csharp-7th-sem\InsertAfter\InsertAfter\obj\Debug\InsertAfter.pdb
