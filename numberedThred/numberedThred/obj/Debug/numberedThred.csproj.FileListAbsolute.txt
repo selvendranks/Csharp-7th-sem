@@ -1,0 +1,8 @@
+D:\Csharp-7th-sem\numberedThred\numberedThred\bin\Debug\numberedThred.exe.config
+D:\Csharp-7th-sem\numberedThred\numberedThred\bin\Debug\numberedThred.exe
+D:\Csharp-7th-sem\numberedThred\numberedThred\bin\Debug\numberedThred.pdb
+D:\Csharp-7th-sem\numberedThred\numberedThred\obj\Debug\numberedThred.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\numberedThred\numberedThred\obj\Debug\numberedThred.csproj.SuggestedBindingRedirects.cache
+D:\Csharp-7th-sem\numberedThred\numberedThred\obj\Debug\numberedThred.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\numberedThred\numberedThred\obj\Debug\numberedThred.exe
+D:\Csharp-7th-sem\numberedThred\numberedThred\obj\Debug\numberedThred.pdb

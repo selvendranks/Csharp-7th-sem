@@ -1,0 +1,8 @@
+D:\Csharp-7th-sem\parking\parking\bin\Debug\parking.exe.config
+D:\Csharp-7th-sem\parking\parking\bin\Debug\parking.exe
+D:\Csharp-7th-sem\parking\parking\bin\Debug\parking.pdb
+D:\Csharp-7th-sem\parking\parking\obj\Debug\parking.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\parking\parking\obj\Debug\parking.csproj.SuggestedBindingRedirects.cache
+D:\Csharp-7th-sem\parking\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\parking\parking\obj\Debug\parking.exe
+D:\Csharp-7th-sem\parking\parking\obj\Debug\parking.pdb
