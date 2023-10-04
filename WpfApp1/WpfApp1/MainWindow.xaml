@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <StackPanel Background="Red" Orientation="Horizontal" Height="150">
+                <Button x:Name="sayHello" Content="Click Me" Click="ClickHarder" Height="100" Width="150" Margin="5"/>
+                <Rectangle Width="150" Height="100" Fill="Sienna"  Margin="5"></Rectangle>
+                    <Rectangle Width="150" Height="100" Fill="Lime"  Margin="5"></Rectangle>
+                <Rectangle Width="150" Height="100" Fill="Teal"  Margin="5"></Rectangle>
+                <Rectangle Width="150" Height="100" Fill="Blue"  Margin="5"></Rectangle>
+                
+                
+
+            </StackPanel>
+
+            <WrapPanel Background="Aqua">
+                <Rectangle  Width="150" Fill="Green" Margin="5"></Rectangle>
+                <Rectangle  Width="150" Fill="Maroon" Margin="5"></Rectangle>
+                <Rectangle  Width="150" Fill="Crimson" Height="94" Margin="5"></Rectangle>
+                <Rectangle  Width="150" Fill="Green" Margin="5"></Rectangle>
+                <Rectangle  Width="150" Fill="Maroon" Margin="5"></Rectangle>
+                <Rectangle  Width="150" Fill="Crimson" Height="94" Margin="5"></Rectangle>
+            </WrapPanel>
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>
