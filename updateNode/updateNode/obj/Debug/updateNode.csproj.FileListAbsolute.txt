@@ -1,0 +1,8 @@
+D:\Csharp-7th-sem\updateNode\updateNode\bin\Debug\updateNode.exe.config
+D:\Csharp-7th-sem\updateNode\updateNode\bin\Debug\updateNode.exe
+D:\Csharp-7th-sem\updateNode\updateNode\bin\Debug\updateNode.pdb
+D:\Csharp-7th-sem\updateNode\updateNode\obj\Debug\updateNode.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\updateNode\updateNode\obj\Debug\updateNode.csproj.SuggestedBindingRedirects.cache
+D:\Csharp-7th-sem\updateNode\updateNode\obj\Debug\updateNode.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\updateNode\updateNode\obj\Debug\updateNode.exe
+D:\Csharp-7th-sem\updateNode\updateNode\obj\Debug\updateNode.pdb
