@@ -1,0 +1,8 @@
+D:\Csharp-7th-sem\displayNodeXpath\displayNodeXpath\bin\Debug\displayNodeXpath.exe.config
+D:\Csharp-7th-sem\displayNodeXpath\displayNodeXpath\bin\Debug\displayNodeXpath.exe
+D:\Csharp-7th-sem\displayNodeXpath\displayNodeXpath\bin\Debug\displayNodeXpath.pdb
+D:\Csharp-7th-sem\displayNodeXpath\displayNodeXpath\obj\Debug\displayNodeXpath.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\displayNodeXpath\displayNodeXpath\obj\Debug\displayNodeXpath.csproj.SuggestedBindingRedirects.cache
+D:\Csharp-7th-sem\displayNodeXpath\displayNodeXpath\obj\Debug\displayNodeXpath.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\displayNodeXpath\displayNodeXpath\obj\Debug\displayNodeXpath.exe
+D:\Csharp-7th-sem\displayNodeXpath\displayNodeXpath\obj\Debug\displayNodeXpath.pdb
