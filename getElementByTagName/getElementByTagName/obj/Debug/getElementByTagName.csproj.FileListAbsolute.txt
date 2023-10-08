@@ -1,0 +1,8 @@
+D:\Csharp-7th-sem\getElementByTagName\getElementByTagName\bin\Debug\getElementByTagName.exe.config
+D:\Csharp-7th-sem\getElementByTagName\getElementByTagName\bin\Debug\getElementByTagName.exe
+D:\Csharp-7th-sem\getElementByTagName\getElementByTagName\bin\Debug\getElementByTagName.pdb
+D:\Csharp-7th-sem\getElementByTagName\getElementByTagName\obj\Debug\getElementByTagName.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\getElementByTagName\getElementByTagName\obj\Debug\getElementByTagName.csproj.SuggestedBindingRedirects.cache
+D:\Csharp-7th-sem\getElementByTagName\getElementByTagName\obj\Debug\getElementByTagName.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\getElementByTagName\getElementByTagName\obj\Debug\getElementByTagName.exe
+D:\Csharp-7th-sem\getElementByTagName\getElementByTagName\obj\Debug\getElementByTagName.pdb

@@ -1,0 +1,8 @@
+D:\Csharp-7th-sem\displayNode\displayNode\bin\Debug\displayNode.exe.config
+D:\Csharp-7th-sem\displayNode\displayNode\bin\Debug\displayNode.exe
+D:\Csharp-7th-sem\displayNode\displayNode\bin\Debug\displayNode.pdb
+D:\Csharp-7th-sem\displayNode\displayNode\obj\Debug\displayNode.csproj.AssemblyReference.cache
+D:\Csharp-7th-sem\displayNode\displayNode\obj\Debug\displayNode.csproj.SuggestedBindingRedirects.cache
+D:\Csharp-7th-sem\displayNode\displayNode\obj\Debug\displayNode.csproj.CoreCompileInputs.cache
+D:\Csharp-7th-sem\displayNode\displayNode\obj\Debug\displayNode.exe
+D:\Csharp-7th-sem\displayNode\displayNode\obj\Debug\displayNode.pdb
